@@ -1,0 +1,12 @@
+D:\VikramDotNet\vs2010\CountrywiseAverageAge\CountrywiseAverageAge\bin\Debug\CountrywiseAverageAge.exe.config
+D:\VikramDotNet\vs2010\CountrywiseAverageAge\CountrywiseAverageAge\bin\Debug\CountrywiseAverageAge.exe
+D:\VikramDotNet\vs2010\CountrywiseAverageAge\CountrywiseAverageAge\bin\Debug\CountrywiseAverageAge.pdb
+D:\VikramDotNet\vs2010\CountrywiseAverageAge\CountrywiseAverageAge\bin\Debug\CountrywiseAverageAge.Entities.dll
+D:\VikramDotNet\vs2010\CountrywiseAverageAge\CountrywiseAverageAge\bin\Debug\CountrywiseAverageAge.ProcessingEngine.dll
+D:\VikramDotNet\vs2010\CountrywiseAverageAge\CountrywiseAverageAge\bin\Debug\Newtonsoft.Json.dll
+D:\VikramDotNet\vs2010\CountrywiseAverageAge\CountrywiseAverageAge\bin\Debug\CountrywiseAverageAge.Entities.pdb
+D:\VikramDotNet\vs2010\CountrywiseAverageAge\CountrywiseAverageAge\bin\Debug\CountrywiseAverageAge.ProcessingEngine.pdb
+D:\VikramDotNet\vs2010\CountrywiseAverageAge\CountrywiseAverageAge\bin\Debug\Newtonsoft.Json.xml
+D:\VikramDotNet\vs2010\CountrywiseAverageAge\CountrywiseAverageAge\obj\x86\Debug\CountrywiseAverageAge.csprojResolveAssemblyReference.cache
+D:\VikramDotNet\vs2010\CountrywiseAverageAge\CountrywiseAverageAge\obj\x86\Debug\CountrywiseAverageAge.exe
+D:\VikramDotNet\vs2010\CountrywiseAverageAge\CountrywiseAverageAge\obj\x86\Debug\CountrywiseAverageAge.pdb

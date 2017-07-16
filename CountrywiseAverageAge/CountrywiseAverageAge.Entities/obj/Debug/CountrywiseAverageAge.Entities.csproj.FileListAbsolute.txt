@@ -1,0 +1,4 @@
+D:\VikramDotNet\vs2010\CountrywiseAverageAge\CountrywiseAverageAge.Entities\bin\Debug\CountrywiseAverageAge.Entities.dll
+D:\VikramDotNet\vs2010\CountrywiseAverageAge\CountrywiseAverageAge.Entities\bin\Debug\CountrywiseAverageAge.Entities.pdb
+D:\VikramDotNet\vs2010\CountrywiseAverageAge\CountrywiseAverageAge.Entities\obj\Debug\CountrywiseAverageAge.Entities.dll
+D:\VikramDotNet\vs2010\CountrywiseAverageAge\CountrywiseAverageAge.Entities\obj\Debug\CountrywiseAverageAge.Entities.pdb

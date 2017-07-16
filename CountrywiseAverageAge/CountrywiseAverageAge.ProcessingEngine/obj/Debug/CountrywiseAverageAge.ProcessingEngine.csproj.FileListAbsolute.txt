@@ -1,0 +1,7 @@
+D:\VikramDotNet\vs2010\CountrywiseAverageAge\CountrywiseAverageAge.ProcessingEngine\bin\Debug\CountrywiseAverageAge.ProcessingEngine.dll
+D:\VikramDotNet\vs2010\CountrywiseAverageAge\CountrywiseAverageAge.ProcessingEngine\bin\Debug\CountrywiseAverageAge.ProcessingEngine.pdb
+D:\VikramDotNet\vs2010\CountrywiseAverageAge\CountrywiseAverageAge.ProcessingEngine\bin\Debug\CountrywiseAverageAge.Entities.dll
+D:\VikramDotNet\vs2010\CountrywiseAverageAge\CountrywiseAverageAge.ProcessingEngine\bin\Debug\CountrywiseAverageAge.Entities.pdb
+D:\VikramDotNet\vs2010\CountrywiseAverageAge\CountrywiseAverageAge.ProcessingEngine\obj\Debug\CountrywiseAverageAge.ProcessingEngine.csprojResolveAssemblyReference.cache
+D:\VikramDotNet\vs2010\CountrywiseAverageAge\CountrywiseAverageAge.ProcessingEngine\obj\Debug\CountrywiseAverageAge.ProcessingEngine.dll
+D:\VikramDotNet\vs2010\CountrywiseAverageAge\CountrywiseAverageAge.ProcessingEngine\obj\Debug\CountrywiseAverageAge.ProcessingEngine.pdb

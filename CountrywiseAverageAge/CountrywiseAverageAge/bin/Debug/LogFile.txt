@@ -1,0 +1,2 @@
+Following records were not processed.......File D:\VikramDotNet\vs2010\CountrywiseAverageAge\CountrywiseAverageAge\bin\Debug\\Data\DATA6.json has records where age is nullRecord details:
+ Name :Jesus Antonovic, Country : Netherlands
